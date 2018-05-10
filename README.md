@@ -23,7 +23,7 @@
 • #الكود ↙️:- 
 
 ```
-sudo apt-get update && git clone https://github.com/kekobot/botlua.git && cd botlua && sudo chmod 777 botlua.sh && ./botlua.sh
+sudo apt-get update && git clone https://github.com/ahmed19931/botlua1.git && cd botlua1 && sudo chmod 777 botlua1.sh && ./botlua1.sh
 ```
 
 
@@ -52,11 +52,11 @@ sudo apt-get update && git clone https://github.com/kekobot/botlua.git && cd bot
 • وفتح تورمنل ودز  ↙️:- 
 
 ```
-cd botlua && ./launch.sh 
+cd botlua1 && ./launch.sh 
 ```
 او  اذا كنته تستخدم vps قم بوضع 
 ```
-cd botlua && screen -s keko ./launch.sh 
+cd botlua1 && screen -s keko ./launch.sh 
 ```
 ֆ • • • • • • • • • • • • • ֆ
 
